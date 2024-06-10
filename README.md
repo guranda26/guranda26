@@ -18,12 +18,12 @@
   * MA Thesis:The Role of Chatbots in Transforming Digital Marketing Communications and Influencing Consumer Behavior
 * **BA Journalism and Mass Communications - Tbilisi State University (2017-2021)**
 
-**Courses** (2023-2024)  
-**JS / FRONT-END - RS School** (Nov 2023 - Present)  
-**Backend development - Business and technology university** (Dec 2023 - Mar 2024)  
-**Front-End Development - Skillwill** (Nov 2023 - Mar 2024)  
-**Front-End Development - Epam** (May 2023 - Nov 2024)  
-**EngX AI-Supported Engineering Program - Epam** (Jan 2024)  
+**Courses** (2023-2024) 🤓  
+* **JS / FRONT-END - RS School** (Nov 2023 - Present)** 
+* **Backend development - Business and technology university** (Dec 2023 - Mar 2024)  
+* **Front-End Development - Skillwill** (Nov 2023 - Mar 2024)  
+* **Front-End Development - Epam** (May 2023 - Nov 2024)  
+* **EngX AI-Supported Engineering Program - Epam** (Jan 2024)  
 
 **Languages** 💬
 
