@@ -2,7 +2,7 @@
 
 * I am Enthusiastic and fast-learning Junior Frontend Developer with a strong foundation in React. I'm eager to join a collaborative team! Let's build user-friendly web apps with clean, responsive UIs. 🤩
 
-### Experience** 	💻
+### Experience 	💻
 
 * **Front-end LAB intern (Epam, 2024-present)**
   * Briefly describe your responsibilities and achievements.
