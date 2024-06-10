@@ -2,7 +2,7 @@
 
 * I am Enthusiastic and fast-learning Junior Frontend Developer with a strong foundation in React. I'm eager to join a collaborative team! Let's build user-friendly web apps with clean, responsive UIs. 🤩
 
-**Experience** 	💻
+### Experience** 	💻
 
 * **Front-end LAB intern (Epam, 2024-present)**
   * Briefly describe your responsibilities and achievements.
@@ -12,20 +12,20 @@
   * Briefly describe your tasks and accomplishments.
   * (You can add more experience sections following this format)
 
-**Education** 📚
+### Education 📚
 
 * **MA Strategic Communications (PR) - Caucasus University (2023-present)**
   * MA Thesis:The Role of Chatbots in Transforming Digital Marketing Communications and Influencing Consumer Behavior
 * **BA Journalism and Mass Communications - Tbilisi State University (2017-2021)**
 
-**Courses** (2023-2024) 🤓  
+### Courses (2023-2024) 🤓  
 * **JS / FRONT-END - RS School** (Nov 2023 - Present)  
 * **Backend development - Business and technology university** (Dec 2023 - Mar 2024)  
 * **Front-End Development - Skillwill** (Nov 2023 - Mar 2024)  
 * **Front-End Development - Epam** (May 2023 - Nov 2024)  
 * **EngX AI-Supported Engineering Program - Epam** (Jan 2024)  
 
-**Technical Skills** ✨
+### Technical Skills ✨
 * HTML/CSS 
 * Javascript 
 * Typescript 
@@ -39,7 +39,7 @@
 * Adobe Photoshop 
 * Microsoft office
 
-**Languages** 💬
+### Languages 💬
 
 * English - B2
 * Spanish - B2
