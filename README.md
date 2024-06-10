@@ -25,13 +25,6 @@
 * **Front-End Development - Epam** (May 2023 - Nov 2024)  
 * **EngX AI-Supported Engineering Program - Epam** (Jan 2024)  
 
-**Languages** 💬
-
-* English - B2
-* Spanish - B2
-* Russian - B1
-* Portuguese - B1
-
 **Technical Skills** ✨
 * HTML/CSS 
 * Javascript 
@@ -45,6 +38,13 @@
 * SAP/CAP (basic)
 * Adobe Photoshop 
 * Microsoft office
+
+**Languages** 💬
+
+* English - B2
+* Spanish - B2
+* Russian - B1
+* Portuguese - B1
 
 <!--
 **guranda26/guranda26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
