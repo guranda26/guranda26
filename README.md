@@ -5,11 +5,11 @@
 ### Experience 	💻
 
 * **Front-end LAB intern - Epam (2024-present)**
-  * ✨ Engaging in intensive courses and bootcamps: Studying cutting-edge technologies and best practices in frontend development.
-  * 🎓 Participating in mentorship programs: Receiving guidance from experienced professionals, enhancing both technical and soft skills.
-  * 🛠️ Seeking real project opportunities: Actively pursuing hands-on projects to apply learned skills in practical scenarios.
-  * 💻 Developing backend skills: Expanding expertise in Node.js, MongoDB, Express, and SAP CAP through practical assignments and collaborative projects.
-  * 🤝 Collaborating with peers: Working in teams to develop dynamic, user-centric web applications, gaining experience in Agile methodologies and project management.
+  * Engaging in intensive courses and bootcamps: Studying cutting-edge technologies and best practices in frontend development. ✨ 
+  * Participating in mentorship programs: Receiving guidance from experienced professionals, enhancing both technical and soft skills. 🎓 
+  * Seeking real project opportunities: Actively pursuing hands-on projects to apply learned skills in practical scenarios. 🛠️ 
+  * Developing backend skills: Expanding expertise in Node.js, MongoDB, Express, and SAP CAP through practical assignments and collaborative projects. 💻 
+  * Collaborating with peers: Working in teams to develop dynamic, user-centric web applications, gaining experience in Agile methodologies and project management. 🤝 
 
 * **Teaching Assistant (Frontend React Course) - Digital Institute (2024-present)**
   *  Providing personalized assistance to students, tailoring support to individual learning needs and challenges. 💁‍♂️
