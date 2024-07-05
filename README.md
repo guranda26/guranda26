@@ -5,12 +5,12 @@
 ### Experience 	💻
 
 * **Front-end LAB intern (Epam, 2024-present)**
-  * Briefly describe your responsibilities and achievements.
 * **Teaching Assistant (Frontend React Course) - Digital Institute (2024-present)**
-  * Briefly describe your role and responsibilities.
-* **Content creator/Copywriter - Simple Steps (2023-2024)**
-  * Briefly describe your tasks and accomplishments.
-  * (You can add more experience sections following this format)
+  * Responsible for providing personalized assistance 💁‍♂️
+  * Clarifying unclear topics 🧐
+  * Helping with assignments through remote meetings 💻👨‍💻👩‍💻
+* **Content creator/Copywriter - Simple Steps (2023)**
+
 
 ### Education 📚
 
