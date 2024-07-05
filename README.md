@@ -4,11 +4,17 @@
 
 ### Experience 	💻
 
-* **Front-end LAB intern (Epam, 2024-present)**
+* **Front-end LAB intern - Epam (2024-present)**
+  * ✨ Engaging in intensive courses and bootcamps: Studying cutting-edge technologies and best practices in frontend development.
+  * 🎓 Participating in mentorship programs: Receiving guidance from experienced professionals, enhancing both technical and soft skills.
+  * 🛠️ Seeking real project opportunities: Actively pursuing hands-on projects to apply learned skills in practical scenarios.
+  * 💻 Developing backend skills: Expanding expertise in Node.js, MongoDB, Express, and SAP CAP through practical assignments and collaborative projects.
+  * 🤝 Collaborating with peers: Working in teams to develop dynamic, user-centric web applications, gaining experience in Agile methodologies and project management.
+
 * **Teaching Assistant (Frontend React Course) - Digital Institute (2024-present)**
-  * Responsible for providing personalized assistance 💁‍♂️
-  * Clarifying unclear topics 🧐
-  * Helping with assignments through remote meetings 💻👨‍💻👩‍💻
+  *  Providing personalized assistance to students, tailoring support to individual learning needs and challenges. 💁‍♂️
+  *  Clarifying unclear topics to ensure comprehensive understanding of course material and concepts. 🧐
+  *  Helping with assignments through remote meetings, offering guidance and support to complete coursework effectively. 💻👨‍💻👩‍💻 
 * **Content creator/Copywriter - Simple Steps (2023)**
 
 
@@ -46,17 +52,3 @@
 * Russian - B1
 * Portuguese - B1
 
-<!--
-**guranda26/guranda26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
