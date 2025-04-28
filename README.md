@@ -4,7 +4,7 @@ I'm a passionate **Software Engineer** with a strong foundation in **React** and
 
 ## 🚀 Currently...
 
-- **Software Engineer at Epam (Front-End LAB)**: Working on real-world projects with **React**, **Node.js**, and more.
+- **Software Engineer at Epam**: Working on real-world projects with **React**, **Node.js**, and more.
 - **Teaching Assistant**: Helping students master **React** through personalized support.
 
 ## 🛠️ Skills
