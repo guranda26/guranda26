@@ -1,15 +1,26 @@
-# Hi there 👋
+# Hi there, I'm Guranda 👋
 
-I'm a passionate **Software Engineer** with a strong foundation in **React** and a drive to continuously learn and grow. I'm currently expanding my skills in **backend technologies** like **Node.js**, **Express**, and **MongoDB**.
+I'm a Software Engineer with 2+ years of experience building responsive, user-centered web applications. My main focus is frontend development with React, Next.js, and TypeScript, with particular attention to performance, user experience and accessibility.
 
-## 🚀 Currently...
+I also work with Node.js, Express, and MongoDB, and I'm exploring AI integration and cloud technologies.
 
-- **Software Engineer at Epam**: Working on real-world projects with **React**, **Node.js**, and more.
-- **Teaching Assistant**: Helping students master **React** through personalized support.
+## 💻 What I do
+- Build web applications at EPAM, focusing on usability, accessibility, and performance.
+- Mentor learners in frontend development across BTU cohort.
+- Explore the Claude API, Gemini Enterprise, and AWS through learning and hands-on practice.
+  
+## 🛠️ Tech stack
+- Frontend — JavaScript, TypeScript, React, Next.js, Redux Toolkit, HTML, CSS, Sass, Tailwind CSS
+- Backend — Node.js, Express, MongoDB, REST APIs, GraphQL
+- AI & Cloud — Claude API, Gemini Enterprise, AWS
+- Testing & Tools — Jest, Vitest, Cypress, Git, Vite
 
-## 🛠️ Skills
+## 🎓 Certifications
+- Claude Certified Architect - Foundations
+- Claude Certified Associate - Foundations
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+- Certified Partner Specialist Gemini Enterprise Deployment
+- Certified Partner Specialist Gemini Enterprise Agent Development
 
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, NextJs, SASS, Tailwind, Bootstrap, Redux
-- **Backend (Basic)**: Node.js, Express, MongoDB
-
-Feel free to check out my work and connect! Let's build something amazing together. ✨
+🚀 Feel free to check out my work and connect! Let's build something amazing together. ✨
