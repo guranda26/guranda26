@@ -6,8 +6,8 @@ I also work with Node.js, Express, and MongoDB, and I'm exploring AI integration
 
 ## 💻 What I do
 - Build web applications at EPAM, focusing on usability, accessibility, and performance.
-- Mentor learners in frontend development across BTU cohort.
 - Explore the Claude API, Gemini Enterprise, and AWS through learning and hands-on practice.
+- Mentored learners in frontend development during two BTU cohorts.
   
 ## 🛠️ Tech stack
 - Frontend — JavaScript, TypeScript, React, Next.js, Redux Toolkit, HTML, CSS, Sass, Tailwind CSS
